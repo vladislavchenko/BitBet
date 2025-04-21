@@ -80,6 +80,7 @@ header {
 
 .register {
     margin-right: 20px;
+    max-height: 100px;
 }
 
 .nav-btn {
@@ -124,5 +125,8 @@ header {
 
 }
 
-
-
+@media (max-width:450px) {
+    .reg-button {
+        margin-right: 0;
+    }
+}
