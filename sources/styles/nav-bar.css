@@ -128,5 +128,7 @@ header {
 @media (max-width:500px) {
     .reg-button {
         margin-right: 0;
+        font-size: 1em;
+        border-radius: 2em;
     }
 }
