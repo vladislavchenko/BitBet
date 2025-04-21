@@ -1,0 +1,2 @@
+# BitBet
+a school project
